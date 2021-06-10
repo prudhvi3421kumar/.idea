@@ -12,5 +12,5 @@ else:
     if guess==answer:
         print("Well done, you guessed it")
     else:
-        print("you have guessed it wrong")
+        print("you have guessed it wrong you have done wrong")
 
